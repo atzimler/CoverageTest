@@ -1,0 +1,5 @@
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoveredLibrary\bin\Debug\CoveredLibrary.dll
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoveredLibrary\bin\Debug\CoveredLibrary.pdb
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoveredLibrary\obj\Debug\CoveredLibrary.csprojResolveAssemblyReference.cache
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoveredLibrary\obj\Debug\CoveredLibrary.dll
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoveredLibrary\obj\Debug\CoveredLibrary.pdb

@@ -1,0 +1,9 @@
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\bin\Debug\CoverageTests.dll
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\bin\Debug\CoverageTests.pdb
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\bin\Debug\CoveredLibrary.dll
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\bin\Debug\nunit.framework.dll
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\bin\Debug\CoveredLibrary.pdb
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\bin\Debug\nunit.framework.xml
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\obj\Debug\CoverageTests.csprojResolveAssemblyReference.cache
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\obj\Debug\CoverageTests.dll
+D:\Users\Hijaszu\Projects\ATZ\CoverageTest\CoverageTests\obj\Debug\CoverageTests.pdb
